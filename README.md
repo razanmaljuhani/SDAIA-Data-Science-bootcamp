@@ -1,2 +1,2 @@
 # Data Science Bootcamp (Tuwaiq)
-This is Proposal of the Data Science Bootcamp (Tuwaiq) provided by SDAIA.
+This is Project of the Data Science Bootcamp (Tuwaiq) provided by SDAIA.
