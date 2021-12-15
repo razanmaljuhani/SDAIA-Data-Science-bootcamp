@@ -61,6 +61,7 @@ The presentation consists of different figures for communicating the analysis ob
 ![Capture2](https://user-images.githubusercontent.com/47436737/146244298-876feec7-f3de-459d-8d47-4205c3884e1b.JPG)
 
 
-- The best model XGBoost Regression model with accuricy 99%.
+**The best model XGBoost Regression model with accuricy 99%.**
+
 ![XGBoost](https://user-images.githubusercontent.com/47436737/146244308-aa01d837-4631-4cb7-93d9-40a3874597dc.JPG)
 
