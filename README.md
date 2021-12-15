@@ -53,4 +53,6 @@ So, The accuracy of all used models was good. However, the best model is XGBoost
 •	**Modeling and Evaluation**: Scikit-learn.
 
 # Communication
-The presentation consists of different figures for communicating the analysis objectives and findings.
+The presentation consists of different figures for communicating the analysis objectives and findings including:
+![Capture1](https://user-images.githubusercontent.com/47436737/146244078-6b57eaba-2939-4433-8052-e05ee8c49edc.JPG)
+
