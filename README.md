@@ -54,5 +54,12 @@ So, The accuracy of all used models was good. However, the best model is XGBoost
 
 # Communication
 The presentation consists of different figures for communicating the analysis objectives and findings including:
+
 ![Capture1](https://user-images.githubusercontent.com/47436737/146244078-6b57eaba-2939-4433-8052-e05ee8c49edc.JPG)
+
+
+![Capture2](https://user-images.githubusercontent.com/47436737/146244298-876feec7-f3de-459d-8d47-4205c3884e1b.JPG)
+
+
+![XGBoost](https://user-images.githubusercontent.com/47436737/146244308-aa01d837-4631-4cb7-93d9-40a3874597dc.JPG)
 
