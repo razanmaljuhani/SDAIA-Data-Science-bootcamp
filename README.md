@@ -4,12 +4,19 @@ This is a project of the T5 - Data Science Bootcamp (Tuwaiq) provided by SDAIA.
 Razan Aljuhani
 
 # Abstract
-The project aims to establish effective models for predicting the price of a used car depending on its features and attributes by using the Linear regression model. So, the companies can make professional strategies of business to meet a particular level of the car selling price.
+The project aims to establish effective models for predicting the price of a used car depending on its features and attributes by using the Linear regression model. the database contains cars details of the Indian website www.cardekho.com. The project mainly goes through different steps including Data cleaning, EDA including visualization, Preprocessing followed by Modeling, and lastly evaluation of used models and determining the better model that achieve project goals. So, the companies can make professional strategies of business to meet a particular level of the car selling price.
 
 # Design
+**Problem statement **
+
+Companies try to produce cars with special features to take attention in the market and compete with other competitors. They need to understand the dynamic changes of pricing in the market through the years, and the factors affecting the pricing of cars in the market. 
+
+**Proposed solution **
+
+The project will help in clarify the features has a direct impact on the target varible(Selling Price), by build an effective model using Linear regression.
 
 # Data
-Vehicle dataset that consists of data about the used cars listed on this Indian website www.cardekho.com. The third version of the dataset was updated in 2020 and contains 8111 data points and 13 attributes. 
+Vehicle dataset that consists of data about the used cars listed on Indian website www.cardekho.com. The third version of the dataset was updated in 2020 and contains 8111 data points and 13 attributes. 
 
 # Algorithms
 First, the Car_details database was split into (training set) for the modeling process and (test set) for the evaluation process.
