@@ -17,7 +17,7 @@ First, the Car_details database was split into (training set) for the modeling p
 **Feature Engineering** was applied to the dataset for improving machine learning model performance and accuracy including the following:
 - Compute the 'Car_Age'  by deducting the 'year' column from 2021 will give the age of the car.  
 - Establish the 'Car_Brand' by splitting the 'Car_Name' column.
-- 
+
 **The used models**
 Linear Regression, Random Forest Regressor, and XGBoost Regression.
 
@@ -25,7 +25,7 @@ Linear Regression, Random Forest Regressor, and XGBoost Regression.
 - The accuracy of Linear Regression(Ordinary Least Square), Linear Regression(Ridge) and Linear Regression(Lasso) approximately = 86% (Train set) and 85% (Test set).
 - The accuracy of  Random Forest Regressor = 98% (Train set) and 91% (Test set).
 - The accuracy of  XGBoost Regression = 99% (Train set) and 90% (Test set).
-- 
+
 **The evaluation of the models**
 The modes were evaluated using the following main metrics for model evaluation in regression:
 - Mean Absolute Error:  16%
