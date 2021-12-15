@@ -36,10 +36,14 @@ The modes were evaluated using the following main metrics for model evaluation i
 So, The accuracy of all used models was good. However, the best model is XGBoost regression because of its highest and greatest accuracy with a score(99%) which means it generalizes better than other models. Also, the Linear model is a great model choice since its computational inexpensive. The result of accuracy indicates that the model is generalized and has no overfitting. 
 
 # Tools
-•	**Environment**: Jupyter Notebook. 
+•	**Environment**: Jupyter Notebook.
+
 •	**Programming** Language: Python.
+
 •	**Data processing**: Pandas, NumPy.
+
 •	**Visualization**: Seaborn, Matplotlib.
-•	**Modeling**: Scikit-learn.
+
+•	**Modeling and Evaluation**: Scikit-learn.
 
 # Communication
