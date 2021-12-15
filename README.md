@@ -6,11 +6,11 @@ Razan Aljuhani
 The project aims to establish effective models for predicting the price of a used car depending on its features and attributes by using the Linear regression model. the database contains cars details of the Indian website www.cardekho.com. The project mainly goes through different steps including Data cleaning, EDA including visualization, Preprocessing followed by Modeling, and lastly evaluation of used models and determining the better model that achieve project goals. So, the companies can make professional strategies of business to meet a particular level of the car selling price.
 
 # Design
-**Problem statement **
+**Problem statement**
 
 Companies try to produce cars with special features to take attention in the market and compete with other competitors. They need to understand the dynamic changes of pricing in the market through the years, and the factors affecting the pricing of cars in the market. 
 
-**Proposed solution **
+**Proposed solution**
 
 The project will help in clarify the features has a direct impact on the target varible(Selling Price), by build an effective model using Linear regression.
 
