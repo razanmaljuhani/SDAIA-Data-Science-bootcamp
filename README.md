@@ -1,5 +1,4 @@
 # Predection the price of a car.
-This is a project of the T5 - Data Science Bootcamp (Tuwaiq) provided by SDAIA.
 
 Razan Aljuhani
 
